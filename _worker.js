@@ -9,7 +9,7 @@ const apiKey = "5820ac08eae44af332296609e17864bdd6034"; // Ganti dengan Global A
 const apiEmail = "gampangdiinget7@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "471d99c0479aff57fc8da80f85cffbec"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = ""; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
-let isApiReady = false;
+let isApiReady = true;
 let proxyIP = "";
 let cachedProxyList = [];
 
